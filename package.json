@@ -1,0 +1,11 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/koba1108/express-backend.git",
+  "author": "koba1108 <paseli.koba@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
